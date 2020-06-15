@@ -1,0 +1,39 @@
+body {
+	font-family: 'MuseoModerno', cursive;
+	background-color: rgb(230, 230, 230);
+	color: rgb(30, 30, 30)
+}
+h1{
+	color: black;
+	font-family: 'MuseoModerno', cursive;
+	font-weight: 500;
+	letter-spacing: 5px;
+}
+
+.container {
+	width: 80%;
+	margin: 40px auto;
+}
+.card-white{
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30;
+	border-radius: 6px;
+	margin: 20px;
+	text-align: center;
+}
+.img-circle{
+	border-radius: 50%;
+	box-shadow: 5px 10px 3px blue;
+	border-color: solid red;
+}
+h2{
+	color: blue;
+}
+a:hover{
+	color: red;
+}
+
+
+
+
